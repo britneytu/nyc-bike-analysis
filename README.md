@@ -3,7 +3,7 @@
 # Download nearby_stations.csv
 Since the file is over 100MB, please download here:
 https://drive.google.com/open?id=1d6y7ripwLc235UxezdMtvKHv010DISrk
-and save it to ui/q2_data
+and save it to ui/data/q2_data
 
 # Reproducing Layer Structure
 
