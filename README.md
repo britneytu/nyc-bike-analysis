@@ -1,4 +1,6 @@
-# CMPT732 Project NYC Bike Sharing System Analysis
+# NYC Bike Sharing System Analysis
+# Dashboard Preview
+
 
 # Download nearby_stations.csv
 Since the file is over 100MB, please download here:
