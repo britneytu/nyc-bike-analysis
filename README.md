@@ -1,5 +1,6 @@
 # NYC Bike Sharing System Analysis
 # Dashboard Preview
+![](img/pop1.PNG?raw=true)
 
 
 # Download nearby_stations.csv
